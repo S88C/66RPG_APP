@@ -1,0 +1,13 @@
+test_comment:
+  test_comment_001:
+    name: "赐我王冠"
+    value: " "
+    toast: "不要提交空评论哦~"
+  test_comment_002:
+    name : "沧海仙途"
+    value: "test"
+    toast: "您的评论还不够丰满......"
+  test_comment_003:
+    name : "龙雏"
+    value: "非常不错的作品！"
+    toast: "发送成功"

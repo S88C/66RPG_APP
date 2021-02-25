@@ -1,0 +1,13 @@
+test_login:
+  test_login_001:
+    username: "13263295037"
+    password: "Tester"
+    toast: "账号不存在"
+  test_login_002:
+    username: "11111111111"
+    password: "Tester"
+    toast: "密码有误"
+  test_login_003:
+    username: "橙光账号"
+    password: "密码"
+    toast: "欢迎回来用户名"

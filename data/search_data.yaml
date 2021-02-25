@@ -1,0 +1,54 @@
+test_search_name:
+  test_search001:
+    name : "我家儿子初长成"
+    author : "夏日的果子"
+  test_search002:
+    name: "你好，劝退师小姐"
+    author: "墨璃儿"
+  test_search003:
+    name: "绝世千金"
+    author: "卿蓝蓝"
+  test_search004:
+    name: "赐我王冠"
+    author: "橙之魔芋工作室"
+  test_search005:
+    name: "职心计之逆袭女王"
+    author: "橙之魔芋工作室"
+  test_search006:
+    name: "篱笆庄秘闻"
+    author: "猫耳朵"
+  test_search007:
+    name: "沧海仙途"
+    author: "萧失"
+  test_search008:
+    name: "龙雏"
+    author: "Arial"
+  test_search009:
+    name: "国服校花"
+    author: "卿蓝蓝"
+  test_search010:
+    name: "娱乐掌门人"
+    author: "青衣行酒me"
+
+
+test_search_author:
+  test_search001:
+    author: "夏日的果子"
+  test_search002:
+    author: "墨璃儿"
+  test_search003:
+    author: "卿蓝蓝"
+  test_search004:
+    author: "橙之魔芋工作室"
+  test_search005:
+    author: "木夕搬运工"
+  test_search006:
+    author: "萧失"
+  test_search007:
+    author: "猫耳朵"
+  test_search008:
+    author: "伊冠楚楚"
+  test_search009:
+    author: "千金"
+  test_search010:
+    author: "Arial"
